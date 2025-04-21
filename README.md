@@ -1,5 +1,7 @@
 # 7500-NLP-Amazon
 
+# Milestone 4 Presentation link: https://www.youtube.com/watch?v=YjxunD5jq34&ab_channel=BhavikShah
+
 - This repository contains documents and code for IE 7500 NLP Project
 - As of 4/20/2025, all documets for the milestones have been uploaded.
 - We have a python notebook uploaded for milestone 2 which contains model development
